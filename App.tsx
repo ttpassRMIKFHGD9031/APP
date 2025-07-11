@@ -1,4 +1,3 @@
-
 import React, { useState, useCallback, useMemo } from 'react';
 import { useLocalStorage } from './hooks/useLocalStorage';
 import { Artist, Event, View } from './types';
