@@ -1,0 +1,5 @@
+{
+  "name": "Oshi-Navi: Fan Activity Hub",
+  "description": "An application for managing your fan activities ('Oshikatsu'). Keep track of your favorite artists, manage event schedules with a visual calendar, and customize your experience.",
+  "requestFramePermissions": []
+}
